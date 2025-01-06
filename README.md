@@ -1,2 +1,0 @@
-# Effective-one
-Creating something
